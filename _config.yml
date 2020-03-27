@@ -1,5 +1,5 @@
 collections_dir: content
-
+baseurl                  : "/ipaas-doc.github.io"
 highlighter: rouge
 
 collections:
